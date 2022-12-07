@@ -1,0 +1,23 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+    The first one that comes to mind would be out of that chemistry assignment when we took
+of text from the user that represented a chemical code and broke it into endevidual elements.
+That was realy cool to me and showed the power of functions and their abilityto keep your code
+neat and readabe. 
+
+
+2. In your judgment, what is the value of test functions?
+    Test functions have some value. To me I like that I can test for a very specific outcome
+and the program can let me know if all of the background tasks are working and running in the
+same way as I expected.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+    I would be basic in my answer, with this class and with my other coding classes I read
+the error message they give and more often then not I will find I have miss spelled somthing
+or am missing the proper formatting needed. If I canot find my error I like to ask other people
+if pocible befor cunsoltin the internet because I can get a better explenation.
