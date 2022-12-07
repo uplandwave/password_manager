@@ -9,12 +9,13 @@
 
 ### General use 
 When you run Circle K you will be asked what you want to do,
->1) Generate new password
->2) Look at Vault
->3) Put in a new password
->4) Exit
->    What would you like to do?
-
+```
+1) Generate new password
+2) Look at Vault
+3) Put in a new password
+4) Exit
+What would you like to do?
+```
 Just enter the number of the step you want Circle K to preform ex. 1 Enter to have Circle K Generate you a password.
 
 When calling a password from your valut put in the name of the sight with a capital first letter meaning, **"Youtube"** not **"youtube"**. This is another securety feature just incase you leave Circle K open.
