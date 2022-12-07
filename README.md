@@ -13,7 +13,7 @@ When you run Circle K you will be asked what you want to do,
 >2) Look at Vault
 >3) Put in a new password
 >4) Exit
->What would you like to do?
+>    What would you like to do?
 
 Just enter the number of the step you want Circle K to preform ex. 1 Enter to have Circle K Generate you a password.
 
@@ -30,3 +30,8 @@ If you ever have any problems with the encryption or get locked out of your text
 
 #### Keys 
 The key to the encryption is in plain text in the code for easy use by you. It can be easly hidden by directing Circle K to get the key from the "filekey.key" file if you would like. There is also a key genorator located in "Test_Encription.py" witch is commented out if you would like to creat a new key or key file. 
+
+---
+
+#### Testing
+If you would like to run the test file run "Test_of_tests.py". You can add to this new tests as you expand the program to meet your needs  
