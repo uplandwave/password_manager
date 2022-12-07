@@ -90,7 +90,7 @@ def main():
     print("Welcome to Circle K")
     print("We are decripting your file now")
     print()
-    decrypt("111/Week 12/private.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=")
+    decrypt("private.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=")
     first_choice = int(input("""Let me know wat you wnat to do.
     1) Generate new password
     2) Look at Vault
@@ -131,7 +131,7 @@ def main():
             # print("Good luck out there")
     print()
     print("Encripting your file now")
-    encrypt("111/Week 12/private.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=")
+    encrypt("private.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=")
     print("Good luck out there")
     print()
     return first_choice

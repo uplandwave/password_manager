@@ -41,7 +41,7 @@ def encrypt(filename, key):
     with open(filename, "wb") as file:
         file.write(encrypted_data)
 
-encrypt("111/Week 12/private.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=" )
+encrypt("private.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=" )
 
 def decrypt(filename, key):
     """
@@ -57,4 +57,4 @@ def decrypt(filename, key):
     with open(filename, "wb") as file:
         file.write(decrypted_data)
 
-# decrypt("private copy.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=" )
+# decrypt("private.txt","21XO0IS_MdgQm-WvSWdSB2YigtMuwMbVJw-qN7E_bfU=" )
